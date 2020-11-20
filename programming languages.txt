@@ -6,3 +6,9 @@ Pastal
 OOP
 Java
 Python
+C#
+C++
+
+New languages
+Ruby
+React Native
